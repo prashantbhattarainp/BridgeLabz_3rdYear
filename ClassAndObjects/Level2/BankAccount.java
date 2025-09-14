@@ -1,5 +1,3 @@
-package com.bridgelabz.oops.leveltwo;
-
 public class BankAccount {
     // Attributes
     private String accountHolder;
@@ -51,7 +49,6 @@ public class BankAccount {
         System.out.println("👤 Account Holder: " + accountHolder);
         System.out.println("🏦 Account Number: " + accountNumber);
         displayBalance();
-        System.out.println(");
     }
 
     // Main method for testing
